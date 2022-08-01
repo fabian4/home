@@ -1,0 +1,3 @@
+[submodule "brief"]
+	path = themes/brief
+	url = https://github.com/fabian4/brief.git
