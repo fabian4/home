@@ -1,7 +1,3 @@
----
-title: 🧐📚📚📚📚📚🧐
----
-
 # Java 后端和中间件相关📕
 
 - 👍[**Java面试+Java学习指南**](https://github.com/AobingJava/JavaFamily)
@@ -82,4 +78,3 @@ title: 🧐📚📚📚📚📚🧐
 - [**阮一峰：科技爱好者周刊**](https://github.com/ruanyf/weekly)
 - [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 - [**团队领袖计划**](https://leader.js.cool/)
-e
