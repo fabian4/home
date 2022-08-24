@@ -55,13 +55,21 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.en.menu.main]]
+        identifier = "collection"
+        pre = ""
+        post = ""
+        name = "Collection"
+        url = "/collection/"
+        title = ""
+        weight = 3
+      [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "About"
         url = "/about/"
         title = ""
-        weight = 3
+        weight = 4
     [languages.en.params]
       # site description
       description = "Personal blog site"
@@ -172,7 +180,7 @@ enableEmoji = true
         Twitch = ""
         Strava = ""
         Skype = ""
-        Whatsapp = "sssss"
+        Whatsapp = ""
         Zhihu = "ding-sheng-17-15"
         Douban = "205976365"
         Angellist = ""
@@ -393,16 +401,16 @@ enableEmoji = true
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
-      Whatsapp = false
+      Linkedin = true
+      Whatsapp = true
       Pinterest = false
       Tumblr = false
       HackerNews = true
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
@@ -412,16 +420,16 @@ enableEmoji = true
       Renren = false
       Myspace = false
       Blogger = false
-      Baidu = false
+      Baidu = true
       Odnoklassniki = false
       Evernote = false
-      Skype = false
+      Skype = true
       Trello = false
       Mix = false
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
@@ -520,7 +528,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjo0LCJtb3V0aCI6MSwiZXllcyI6NywiZXllYnJvd3MiOjUsImdsYXNzZXMiOjYsImhhaXIiOjMsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ=="
+        logoUrl = "https://fabian4.site/avatar.png"
 
   # TypeIt config
   # TypeIt 配置
@@ -552,10 +560,10 @@ enableEmoji = true
   [params.seo]
     # image URL
     # 图片 URL
-    image = "/images/Apple-Devices-Preview.png"
+    image = "/avatar.png"
     # thumbnail URL
     # 缩略图 URL
-    thumbnailUrl = "/images/screenshot.png"
+    thumbnailUrl = "/avatar.png"
 
   # Analytics config
   # 网站分析配置
