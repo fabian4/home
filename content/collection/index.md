@@ -1,3 +1,7 @@
+---
+title: Collections
+---
+
 # Java 后端和中间件相关📕
 
 - 👍👍👍 [**技术文章摘抄**](https://learn.lianglianglee.com/)
