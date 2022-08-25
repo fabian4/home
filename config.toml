@@ -30,7 +30,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = "G-XWFMDD4FVV"
+    googleAnalytics = "G-788W4F6C1Y"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -505,7 +505,7 @@ enableEmoji = true
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "G-788W4F6C1Y"
     bing = ""
     yandex = ""
     pinterest = ""
@@ -527,10 +527,10 @@ enableEmoji = true
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = "G-XWFMDD4FVV"
+      id = "G-788W4F6C1Y"
       # whether to anonymize IP
       # 是否匿名化用户 IP
-      anonymizeIP = true
+      anonymizeIP = false
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
