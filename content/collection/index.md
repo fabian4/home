@@ -1,20 +1,21 @@
 # Java 后端和中间件相关📕
 
-- 👍[**Java面试+Java学习指南**](https://github.com/AobingJava/JavaFamily)
-- 👍[**后端技术总结**](http://notfound9.github.io/interviewGuide/#/)
+- 👍👍👍 [**技术文章摘抄**](https://learn.lianglianglee.com/)
+- 👍 [**Java面试+Java学习指南**](https://github.com/AobingJava/JavaFamily)
+- 👍 [**后端技术总结**](http://notfound9.github.io/interviewGuide/#/)
 - [**Java必备的知识点**](https://github.com/bin392328206/six-finger)
 - [**java-notes**](https://github.com/DreamCats/java-notes)
 - [**Java知音**](https://www.javazhiyin.com/topics)
 - [**陌溪的学习笔记**](https://github.com/moxi624/LearningNotes)
-- 📍[**MrBird's Blog**](https://mrbird.cc/)
+- 📍 [**MrBird's Blog**](https://mrbird.cc/)
 - [**王者并发课**](https://juejin.cn/post/6967277362455150628)
-- 👍[**凤凰架构**](https://icyfenix.cn/)
-- 👓[**DDIA-设计数据密集型应用**](https://ddia.vonng.com/#/)
+- 👍 [**凤凰架构**](https://icyfenix.cn/)
+- 👓 [**DDIA-设计数据密集型应用**](https://ddia.vonng.com/#/)
 - [**秒杀系统设计与实现**](https://github.com/qiurunze123/miaosha)
-- 👍[**为什么这么设计系列文章**](https://draveness.me/whys-the-design/)
+- 👍 [**为什么这么设计系列文章**](https://draveness.me/whys-the-design/)
 - [**Spring相关组件阅读笔记**](https://github.com/seaswalker/spring-analysis)
 - [**Java流行框架源码分析**](https://github.com/coderbruis/JavaSourceCodeLearning)
-- 📍[**Spring源码解析系列**](https://github.com/shiyujun/spring-framework)
+- 📍 [**Spring源码解析系列**](https://github.com/shiyujun/spring-framework)
 - [**史上最简单的Spring Cloud教程源码**](https://github.com/forezp/SpringCloudLearning)
 - [**后端架构师技术图谱**](https://github.com/xingshaocheng/architect-awesome)
 - [**Java 虚拟机底层原理知识总结**](https://doocs.github.io/jvm/#/)
@@ -25,15 +26,15 @@
 # JavaScript 相关📕
 
 - [**图解 React 源码系列**](https://github.com/7kms/react-illustration-series)
-- 👓[**Koa2进阶学习笔记**](https://chenshenhai.github.io/koa2-note/)
-- 👓[**TypeScript Handbook**](https://github.com/zhongsp/TypeScript)
-- 📍[**JavaScript 资源大全**](https://github.com/jobbole/awesome-javascript-cn)
+- 👓 [**Koa2进阶学习笔记**](https://chenshenhai.github.io/koa2-note/)
+- 👓 [**TypeScript Handbook**](https://github.com/zhongsp/TypeScript)
+- 📍 [**JavaScript 资源大全**](https://github.com/jobbole/awesome-javascript-cn)
 - [**冴羽写博客：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列**](https://github.com/mqyqingfeng/Blog)
 
 # Android 相关
 
 - [**Android 江湖花名册**](https://github.com/OCNYang/AndroidBang)
-- 👓[**安卓学习笔记**](https://github.com/GcsSloop/AndroidNote)
+- 👓 [**安卓学习笔记**](https://github.com/GcsSloop/AndroidNote)
 - [**自定义View**](https://github.com/xinghongfei/awesome-view)
 - [**Android 开源项目分类汇总**](https://github.com/Trinea/android-open-project)
 - [**Android 学习资料收集**](https://github.com/Freelander/Android_Data)
@@ -41,7 +42,7 @@
 # Golang 相关📕
 
 - [**golang资料补给包**](https://github.com/0voice/Introduction-to-Golang)
-- 👓[**Go入门指南**](https://github.com/unknwon/the-way-to-go_ZH_CN)
+- 👓 [**Go入门指南**](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [**Golang修养之路**](https://github.com/aceld/golang)
 
 # CS 相关📕
