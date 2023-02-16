@@ -82,6 +82,7 @@ title: Collections
 # 其他📕
 
 - [**GitHub 漫游指南**](https://github.phodal.com/)
+- [**Nginx开发从入门到精通**](http://tengine.taobao.org/book/index.html)
 - [**阮一峰：互联网上的免费书籍**](https://github.com/ruanyf/free-books)
 - [**阮一峰：科技爱好者周刊**](https://github.com/ruanyf/weekly)
 - [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
