@@ -69,6 +69,9 @@ title: Collections
 - [**大数据入门指南 ⭐**](https://github.com/heibaiying/BigData-Notes)
 - [**BIGDATA-TUTORIAL**](https://dunwu.github.io/bigdata-tutorial/)
 
+# 区块链相关📕
+
+- [**区块链入门指南**](https://guide.pseudoyu.com/)
 
 # 网安📕
 
