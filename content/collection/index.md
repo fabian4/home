@@ -56,6 +56,10 @@ title: Collections
 - 👓 [**Go入门指南**](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [**Golang修养之路**](https://github.com/aceld/golang)
 - [**超全golang面试题合集+golang学习指南+golang知识图谱+成长路线**](https://github.com/xiaobaiTech/golangFamily)
+- [**跟煎鱼学 Go**](https://eddycjy.com/go-categories/)
+- [Go 语言进阶之旅](https://eddycjy.com/go-categories/)
+- [Go 语言设计哲学](https://golang3.eddycjy.com/)
+- [**Go 语言编程之旅：一起用 Go 做项目**](https://golang2.eddycjy.com/)
 
 ### CS 相关📕
 
