@@ -101,3 +101,4 @@ title: Collections
 - [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners)
 - [**团队领袖计划**](https://leader.js.cool/)
 - [**书栈网**](https://www.bookstack.cn/)
+- [**如何同人工智能交流，并得到你要的结果**](https://learnprompting.org/)
