@@ -63,13 +63,21 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.en.menu.main]]
+        identifier = "draftbook"
+        pre = ""
+        post = ""
+        name = "Draftbook"
+        url = "/draftbook"
+        title = ""
+        weight = 4
+      [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "About"
         url = "/about/"
         title = ""
-        weight = 4
+        weight = 5
     [languages.en.params]
       # site description
       description = "Personal blog site"
