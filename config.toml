@@ -4,7 +4,7 @@ theme = "brief"
 
 # website title
 # 网站标题
-title = "fabian"
+title = "Fabian Bao"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -140,7 +140,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = "Fabian Bao"
           # subtitle shown in home page
-          subtitle = "You know you can do better than that! 💪"
+          subtitle = "Trade code for BEER ! 🍺"
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
@@ -156,22 +156,13 @@ enableEmoji = true
       [languages.en.params.social]
         GitHub = "fabian4"
         Linkedin = "fabian4"
-        Twitter = "fabian13416618"
-        Instagram = "fabian__bao"
-        Facebook = "fabianbianbao"
+        Twitter = "fabian_bao"
+        Instagram = "fabian_v_bao"
         Telegram = "fabianbao"
         Leetcode-cn = "fabianbao"
-        Youtubechannel = "UCuGx9saCu3PqlXBO6PGDXKA"
-        Reddit = "Negative_Season_9946"
-        Stackoverflow = "15635837"
         Weibo = "7390627985"
-        Phone = "15751763183"
-        Paypal = "fabianbianbian"
-        Zhihu = "ding-sheng-17-15"
-        Douban = "205976365"
-        Devto = "fabianbian"
         Bilibili = "34807633"
-        Email = "fabian4@163.com"
+        Email = "fabianbao@apache.org"
         RSS = false
 
 [params]
@@ -628,7 +619,7 @@ enableEmoji = true
 # 作者配置
 [author]
   name = "Fabian Bao"
-  email = "fabian4@163.com"
+  email = "fabianbao@apache.org"
   link = "https://fabian4.site"
 
 # Sitemap config
